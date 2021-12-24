@@ -1,5 +1,3 @@
-node_modules/
-
 #Ignores all files starting with the letter z.
 z*
 
@@ -7,4 +5,4 @@ z*
 .env
 
 #Ignores a top-level directory named artifacts
-/artifacts
+/artifacts/
